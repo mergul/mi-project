@@ -1,0 +1,4 @@
+2022-08-14 03:18:33.357973218000 [366883(ThreadId 13)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-08-14 03:23:56.050747843000 [374002(ThreadId 13)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2022-08-14 03:25:02.993083876000 [379376(ThreadId 13)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2022-08-14 03:25:57.027406418000 [380035(ThreadId 13)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
